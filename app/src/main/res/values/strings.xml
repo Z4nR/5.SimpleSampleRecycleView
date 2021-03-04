@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AniMy</string>
+    <string name="genre">genre</string>
+    <string name="date">date</string>
+    <string name="title">title</string>
+    <string name="releaseDate">releaseDate</string>
+    <string name="ph">production</string>
+    <string name="desc">description</string>
+    <string name="describe_a_image">Describe a image</string>
+    <string name="profile">Profile</string>
+    <string name="name">Zulham Ari Nur Ridhwan</string>
+    <string name="email">ari.comunity1@gmail.com</string>
+    <string name="CR">CopyRight Bangkit © 2021. All Reserved</string>
+</resources>
